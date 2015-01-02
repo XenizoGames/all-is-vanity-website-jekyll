@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+	background-color: #{{ site.color.primary }};
 }
 
 p {
@@ -22,7 +23,16 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary-dark }};
+}
+
+li a,
+li a:hover,
+li a:focus,
+li a:active,
+li a.active {
+    outline: 0;
+    color: #CFAF2A;
 }
 
 h1,
@@ -36,6 +46,9 @@ h6 {
     font-weight: 700;
 }
 
+h2 {
+	color: #{{ site.color.secondary-dark }};
+}
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -46,16 +59,6 @@ hr.star-primary {
     text-align: center;
 }
 
-hr.star-light:after,
-hr.star-primary:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
-}
 
 hr.star-light {
     border-color: #fff;
@@ -82,7 +85,12 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+	background: url('img/bgTitleScreen.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 }
 
 header .container {
@@ -132,7 +140,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 2.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -148,9 +156,9 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
+	text-transform:uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+	font-weight:700;
 }
 
 .navbar a:focus {
