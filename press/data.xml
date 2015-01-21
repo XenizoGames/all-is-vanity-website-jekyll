@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>All Is Vanity</title>
+	<founding-date>2013</founding-date>
+	<website>http://www.allisvanity.net</website>
+	<based-in>Michigan</based-in>
+
+	<press-contact>feedback@xenizogames.com</press-contact>
+	<phone></phone>
+	<address>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/XenizoGames</name>
+			<link>twitter.com/XenizoGames</link>
+		</social>
+		<social>
+			<name>facebook.com/XenizoGames</name>
+			<link>facebook.com/XenizoGames</link>
+		</social>
+	</socials>
+
+	<description>	
+		Xenizo Games is a Michigan-based software company that established its name in 2013 as a brand for peculiar and intriguing interactive entertainment. “All is Vanity: Chasing the Wind” will be its first release.
+	</description>
+
+	<histories>
+		<history>
+			<header>Our Mission</header>
+			<text>					To start a new artistic uprising that grows into a preferred alternative to global media and entertainment as we know them.					To connect our customers to thrilling experiences, astonishing worlds and compelling stories through the ritual of play.To inspire a curiosity of the humanities and particularly art, philosophy and religion.To envision a world that favors faith over nihilism and the individual over the collective.To tweak the Establishment, capture the world's imagination and have fun while doing it.</text>
+		</history>		<history>			<header>All Is Vanity Backstory</header>			<text>			Get ready to shoot the breeze and much more in “All is Vanity,” Xenizo Games’ exciting dual-stick, isometric action/arcade shooter that transports players to a world of Middle Eastern madness.  Rumors say that strong winds are snuffing out the sun, and surreal times and seasons are wreaking havoc in ancient Israel. But the self-proclaimed sun god, Pharaoh Shishaq, is too busy planning an end-of-the-world party to do anything about it.  Follow the scatterbrained scholar Qoheleth and his allies as they try to stop “everything under the sun” from falling into ruin. Will our heroes use their wind-control powers wisely, or will they succumb to the temptations of success, luxury and fame?			</text>		</history>				<history>			<header>All Is Vanity Gameplay</header>			<text>			Dodge showers of onscreen bullets while attacking evil wind spirits, flying carpets, golems, mummies, golden calves and members of Pharaoh Shishaq’s army.  Control the battlegrounds’ wind direction and wind speed to sweep bullets away, strengthen attacks and push enemies into hazards.  Equip your characters with dozens of weapons, armors and other items. Wield slingshots, scrolls, harps, bows, hammers and more to fire numerous bullet patterns at your foes.  Explore 100 levels set in a farcical Middle Eastern setting, including an underground quarry, a high-tech winery, an ancient expressway and an apocalyptic hippodrome.  Cutscenes weave a story based on Ecclesiastes — the world-weary book that coined phrases like, “To every thing there is a season” and “There is nothing new under the sun.”			</text>		</history>		
+	</histories>
+	<trailers>
+		<trailer>
+			<name>Trailer Coming Soon</name>
+			<youtube>TBD</youtube>
+		</trailer><!--
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>-->
+	</trailers>
+<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>-->
+
+	<press-can-request-copy>TRUE</press-can-request-copy>
+	<!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission>
+	<!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+<!--	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>-->
+<!--
+	<credits>
+		<credit>
+			<person>John Doe</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Oliver Twist</person>
+			<website>www.olivertwist.com</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Jane Doette</person>
+			<website>www.olivertwist.com</website>
+			<role>Music, Freelancer</role>
+		</credit>
+	</credits>-->
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>feedback@xenizogames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/XenizoGames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/XenizoGames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://www.XenizoGames.com</link>
+		</contact>
+	</contacts>
+</game>
