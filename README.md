@@ -1,7 +1,7 @@
 Freelancer Jekyll theme
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+Modified version of the [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
 ## Demo
 View this jekyll theme in action [here](http://allisvanity.net)
