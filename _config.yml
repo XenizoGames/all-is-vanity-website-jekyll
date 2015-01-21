@@ -38,3 +38,5 @@ credits: 'All Is Vanity - Chasing The Wind is property of <a href="http://xenizo
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems: [jekyll-swfobject]
