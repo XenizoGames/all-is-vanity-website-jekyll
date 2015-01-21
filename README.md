@@ -1,7 +1,7 @@
 Freelancer Jekyll theme
 =========================
 
-Modified version of the [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+Modified version of the [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/) for All Is Vanity: Chasing The Wind
 
 ## Demo
 View this jekyll theme in action [here](http://allisvanity.net)
